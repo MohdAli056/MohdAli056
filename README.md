@@ -1,9 +1,9 @@
-# Hi, I'm Mohd Amjad Ali 👋
+# Hi, I'm Mohd Amjad Ali 
 
-- 💡 A soon-to-be Computer Science and Engineering graduate.
-- 🌱 Lifelong learner, continuously exploring new tech trends.
-- 🤝 Loves teamwork, creativity, and solving real-world problems.
-- 🎯 Looking for opportunities to grow and contribute in a tech-driven environment.
+-  A soon-to-be Computer Science and Engineering graduate.
+-  Lifelong learner, continuously exploring new tech trends.
+-  Loves teamwork, creativity, and solving real-world problems.
+-  Looking for opportunities to grow and contribute in a tech-driven environment.
 
 > "Actively learning new skills and technologies to stay updated with industry trends. Committed to self-improvement and adaptability in a rapidly evolving world."
 > 
